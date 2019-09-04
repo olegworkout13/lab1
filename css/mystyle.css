@@ -1,0 +1,54 @@
+
+body{margin: auto;max-width:400px;
+color:#8e8f8f;background:#212121 url('/images/art/bb1.jpg');
+background-attachment:fixed;}
+
+.cntr{text-align:center;}
+.mb2{margin-bottom:2px;}
+
+
+.t1 {
+border: 1px solid blue;
+background:#212121;
+padding-left: 60px;
+width: 400px;
+border : 1px solid blue;
+}
+
+
+.k1 {
+max-width:300px;width:100%;
+padding-right: 60px;
+}
+
+/*table*/
+table, tr,td, th {
+border: 2px solid green;
+}
+
+/*frame*/
+.tdiv 
+{
+border: 1px solid red;
+background:#212121;
+padding-left: 60px;
+width: 20px;
+border : 1px solid blue;
+max-width:300px;width:100%;
+}
+
+/*bottom*/
+.simple-but{height:23px;margin-bottom:7px;display:block;border-radius:9px;background:#0b9600 font-weight:bold;color:#d2d2d2;text-shadow:#065400 -1px -1px 0;}
+.simple-but.border{height:31px;border-radius:9px;background:#0b9600;}
+.simple-but.gray{background-color:#4c4c4c;background-position:0 -450px;text-shadow:#2a2a2a -1px -1px 0;}
+.simple-but.border.gray{border-radius:9px;background-position:0 -600px;}
+    .simple-but.gray span{border-radius:9px;background-position:0 -475px;}
+	.simple-but.border.gray span{border-radius:9px;border-radius:9px;background-position:0 -650px;}
+
+		.simple-but span span{
+            font-size:70%;
+            line-height:1 !important;
+            padding:5px 10px 0;
+            background-position:100% -50px;
+            text-align:center;
+            white-space:nowrap;}
