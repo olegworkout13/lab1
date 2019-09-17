@@ -1,40 +1,30 @@
 
-body{margin: auto;max-width:400px;
-color:#8e8f8f;background:#212121 url('/images/art/bb1.jpg');
+body{margin:auto;
+padding-left:400px;
+background:black;
 background-attachment:fixed;}
 
-.cntr{text-align:center;
-margin-bottom:2px;}
 
-/*frame class*/
-.t1 {
+
+
+.t1{
 border: 1px solid blue;
 background:#212121;
-padding-left: 60px;
+padding-left: 100px;
 width: 400px;
 }
-/*frame in*/
-.tdiv 
-{
-background:#212121;
-padding-left: 60px;
-width: 20px;
-border : 1px solid blue;
-max-width:300px;width:100%;
-}
+
+
 /*img class*/
-.k1 {
-max-width:300px;width:100%;
-padding-right: 60px;
+.k1{
+max-width:300px;width:90%;
+padding-right: 50px;
 }
-/*table*/
-table, tr,td, th {
-border: 2px solid green;
-}
+
 /*bottom*/
 .simple-but{
-height:23px;
 margin-bottom:7px;
+width:70%;
 display:block;
 border-radius:9px;
 background:#0b9600;
@@ -42,16 +32,13 @@ font-weight:bold;
 color:#d2d2d2;
 font-size:70%;
 padding:5px 10px 0;
-background-position:100% -50px;
 text-align:center;
 height:31px;
 }
 
 
-
 #but{background-color:#4c4c4c;
-background-position:0 -650px;
-border-radius:9px;
+
 }
 
 
